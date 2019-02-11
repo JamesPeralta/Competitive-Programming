@@ -2,7 +2,7 @@
 A repository where I store all of my competitive programming code!
 
 ## Legend
-January 6, 2019:
+February 6, 2019:
 - Left Beehind
 - Linder Mayor System
 - Sok
