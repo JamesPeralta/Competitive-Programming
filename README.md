@@ -2,6 +2,18 @@
 A repository where I store all of my competitive programming code!
 
 ## Legend
+March 6, 2019:
+- Battle Simulation
+- Erase Securely
+- Robots on a Grid
+- Shiritori
+
+February 27, 2019:
+- A Prize no-one can win
+- Day dreaming stock broker
+- Planting trees
+- Wood cutting
+
 February 13, 2019:
 - Incognito
 - Permutations
