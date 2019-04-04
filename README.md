@@ -2,6 +2,12 @@
 A repository where I store all of my competitive programming code!
 
 ## Legend
+March 20, 2019:
+- Hangman
+- Recount
+- Sum of the Others
+- Welcome to Code Jam
+
 March 6, 2019:
 - Battle Simulation
 - Erase Securely
