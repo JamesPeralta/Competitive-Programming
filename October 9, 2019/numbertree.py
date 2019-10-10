@@ -1,0 +1,1 @@
+height, path = str(input()).split()
