@@ -28,7 +28,8 @@ def place_figure(array, row, col, figure, tag, clear=False):
     if clear:
         for slot in slots:
             array[row + slot[0]][col + slot[1]] = 0
-            return True
+
+        return True
 
     for slot in slots:
         if is_oob_or_taken(array, row + slot[0], col + slot[1]):
@@ -43,6 +44,7 @@ def place_figure(array, row, col, figure, tag, clear=False):
 def __main__(n, m, figures):
     figures = deque(figures)
     array = [[0 for j in range(m)] for i in range(n)]
+
     for row in range(n):
         for col in range(m):
             # Try placing
