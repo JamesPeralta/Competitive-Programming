@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="047410f2-dd88-449d-83e7-91ddf15c5085" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Competitive-Programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructures/Stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sandbox/binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration name="Stack" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="binary_search" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Competitive-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,12 +59,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sandbox" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructures/Stack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sandbox/binary_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +82,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604250189660</updated>
-      <workItem from="1604250192516" duration="2647000" />
+      <workItem from="1604250192516" duration="2743000" />
+      <workItem from="1604289729355" duration="4393000" />
+      <workItem from="1604462542045" duration="1396000" />
     </task>
     <servers />
   </component>
@@ -103,27 +101,38 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1496" y="149" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604251776979">
+    <state x="-1496" y="149" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604464112898">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
+    <state x="-1496" y="149" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.713/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604464112898" />
+    <state x="-1496" y="149" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604291359010" />
     <state x="-1496" y="149" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604251776979" />
-    <state width="1878" height="182" key="GridCell.Tab.0.bottom" timestamp="1604252936368">
+    <state width="1878" height="192" key="GridCell.Tab.0.bottom" timestamp="1604464121035">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
+    <state width="1878" height="192" key="GridCell.Tab.0.bottom/0.23.1280.713/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604464121035" />
+    <state width="1878" height="175" key="GridCell.Tab.0.bottom/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604297142614" />
     <state width="1878" height="182" key="GridCell.Tab.0.bottom/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604252936368" />
-    <state width="1878" height="182" key="GridCell.Tab.0.center" timestamp="1604252936366">
+    <state width="1878" height="192" key="GridCell.Tab.0.center" timestamp="1604464121034">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
+    <state width="1878" height="192" key="GridCell.Tab.0.center/0.23.1280.713/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604464121034" />
+    <state width="1878" height="175" key="GridCell.Tab.0.center/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604297142612" />
     <state width="1878" height="182" key="GridCell.Tab.0.center/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604252936366" />
-    <state width="1878" height="182" key="GridCell.Tab.0.left" timestamp="1604252936366">
+    <state width="1878" height="192" key="GridCell.Tab.0.left" timestamp="1604464121032">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
+    <state width="1878" height="192" key="GridCell.Tab.0.left/0.23.1280.713/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604464121032" />
+    <state width="1878" height="175" key="GridCell.Tab.0.left/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604297142612" />
     <state width="1878" height="182" key="GridCell.Tab.0.left/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604252936366" />
-    <state width="1878" height="182" key="GridCell.Tab.0.right" timestamp="1604252936367">
+    <state width="1878" height="192" key="GridCell.Tab.0.right" timestamp="1604464121034">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
+    <state width="1878" height="192" key="GridCell.Tab.0.right/0.23.1280.713/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604464121034" />
+    <state width="1878" height="175" key="GridCell.Tab.0.right/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604297142613" />
     <state width="1878" height="182" key="GridCell.Tab.0.right/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604252936367" />
     <state x="-1295" y="226" key="search.everywhere.popup" timestamp="1604250894831">
       <screen x="-1920" y="23" width="1920" height="1057" />
@@ -131,6 +140,7 @@
     <state x="-1295" y="226" key="search.everywhere.popup/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604250894831" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Competitive_Programming$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1604252936357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructures" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1604464121005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sandbox" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$Stack.coverage" NAME="Stack_2 Coverage Results" MODIFIED="1604293959256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sandbox" />
   </component>
 </project>
