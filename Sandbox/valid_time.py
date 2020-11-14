@@ -55,5 +55,5 @@ def check_back(back):
 # T = "?9:32"
 # T = "0?:?0"
 # T = "?4:0?"
-T = "29:01"
+T = "??:60"
 print(solution(T))
