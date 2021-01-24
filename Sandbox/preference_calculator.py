@@ -17,6 +17,6 @@ while readline != "":
 
 min_value = 0
 for elem in count:
-    min_value += (count[elem] - value_dict[elem])
+    min_value += (count[elem])
 
 print(min_value)
