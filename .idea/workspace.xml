@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="047410f2-dd88-449d-83e7-91ddf15c5085" name="Default Changelist" comment="Added device application pairs question">
-      <change afterPath="$PROJECT_DIR$/DataStructures/LinkedHashmap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTTPRequest/JavaRequestTemplate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +94,8 @@
       <workItem from="1607448361716" duration="859000" />
       <workItem from="1607449347606" duration="85000" />
       <workItem from="1611522456505" duration="85000" />
-      <workItem from="1611766077028" duration="60000" />
+      <workItem from="1611766077028" duration="105000" />
+      <workItem from="1611800844775" duration="106000" />
     </task>
     <servers />
   </component>
@@ -129,6 +130,10 @@
     <state x="283" y="109" width="714" height="578" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.724/-1920.23.1920.1057@0.23.1280.724" timestamp="1605133227910" />
     <state x="-1496" y="149" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.726/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1605633784324" />
     <state x="-1496" y="149" width="1071" height="772" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1607448434802" />
+    <state x="331" y="194" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611800942527">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="331" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.724/-1920.23.1920.1057@0.23.1280.724" timestamp="1611800942527" />
     <state width="1878" height="242" key="GridCell.Tab.0.bottom" timestamp="1607449503809">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
