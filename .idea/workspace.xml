@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="047410f2-dd88-449d-83e7-91ddf15c5085" name="Default Changelist" comment="Added device application pairs question">
-      <change afterPath="$PROJECT_DIR$/HTTPRequest/Python_Versions/SimpleRequest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="047410f2-dd88-449d-83e7-91ddf15c5085" name="Default Changelist" comment="Added device application pairs question" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +100,7 @@
       <workItem from="1611800844775" duration="138000" />
       <workItem from="1611884294882" duration="84000" />
       <workItem from="1611945025232" duration="4896000" />
-      <workItem from="1611974494153" duration="57000" />
+      <workItem from="1611974494153" duration="80000" />
     </task>
     <servers />
   </component>
