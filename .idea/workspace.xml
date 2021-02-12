@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="047410f2-dd88-449d-83e7-91ddf15c5085" name="Default Changelist" comment="Added device application pairs question" />
+    <list default="true" id="047410f2-dd88-449d-83e7-91ddf15c5085" name="Default Changelist" comment="Added device application pairs question">
+      <change afterPath="$PROJECT_DIR$/February 10, 2021/FireTrucksAreRed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/February 10, 2021/KittenOnATree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/February 10, 2021/MazeMakers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/February 10, 2021/SuperComputer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/February 10, 2021/Tourists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +53,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -53,7 +63,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="BinarySearchTree" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="SuperComputer" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Competitive-Programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,12 +71,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/February 10, 2021" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructures/BinarySearchTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/February 10, 2021/SuperComputer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,6 +112,8 @@
       <workItem from="1611945025232" duration="4896000" />
       <workItem from="1611974494153" duration="80000" />
       <workItem from="1612279884969" duration="72000" />
+      <workItem from="1613005887121" duration="5631000" />
+      <workItem from="1613028412290" duration="3967000" />
     </task>
     <servers />
   </component>
@@ -125,11 +137,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added device application pairs question" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1496" y="149" width="1071" height="772" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611946385637">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state x="-1496" y="129" width="1071" height="885" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613059333340">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="-1496" y="129" width="1071" height="885" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1613059333340" />
     <state x="-1496" y="149" width="1071" height="772" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.713/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604529763827" />
-    <state x="-1496" y="149" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604291359010" />
     <state x="283" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.722/-1920.23.1920.1057@0.23.1280.722" timestamp="1605382056343" />
     <state x="-1496" y="149" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1605499261720" />
     <state x="283" y="109" width="714" height="601" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.723/-1920.23.1920.1057@0.23.1280.723" timestamp="1605381554234" />
@@ -140,12 +152,12 @@
       <screen x="0" y="23" width="1280" height="724" />
     </state>
     <state x="331" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.724/-1920.23.1920.1057@0.23.1280.724" timestamp="1611800942527" />
-    <state width="1878" height="224" key="GridCell.Tab.0.bottom" timestamp="1611952213598">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="887" height="297" key="GridCell.Tab.0.bottom" timestamp="1613062350867">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="887" height="297" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1613062350867" />
     <state width="1878" height="192" key="GridCell.Tab.0.bottom/0.23.1280.713/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604530443802" />
     <state width="1878" height="192" key="GridCell.Tab.0.bottom/0.23.1280.715/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604538473057" />
-    <state width="1878" height="175" key="GridCell.Tab.0.bottom/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604297142614" />
     <state width="1238" height="66" key="GridCell.Tab.0.bottom/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1605069080738" />
     <state width="1238" height="66" key="GridCell.Tab.0.bottom/0.23.1280.722/-1920.23.1920.1057@0.23.1280.722" timestamp="1605071085173" />
     <state width="1878" height="338" key="GridCell.Tab.0.bottom/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1605499543337" />
@@ -156,12 +168,13 @@
     <state width="1878" height="224" key="GridCell.Tab.0.bottom/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611947733837" />
     <state width="1878" height="224" key="GridCell.Tab.0.bottom/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611952213598" />
     <state width="1878" height="141" key="GridCell.Tab.0.bottom/0.23.1280.730/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1607449108411" />
-    <state width="1878" height="224" key="GridCell.Tab.0.center" timestamp="1611952213595">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="992" height="297" key="GridCell.Tab.0.bottom/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1613030767896" />
+    <state width="887" height="297" key="GridCell.Tab.0.center" timestamp="1613062350866">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="887" height="297" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1613062350866" />
     <state width="1878" height="192" key="GridCell.Tab.0.center/0.23.1280.713/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604530443801" />
     <state width="1878" height="192" key="GridCell.Tab.0.center/0.23.1280.715/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604538473055" />
-    <state width="1878" height="175" key="GridCell.Tab.0.center/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604297142612" />
     <state width="1238" height="66" key="GridCell.Tab.0.center/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1605069080736" />
     <state width="1238" height="66" key="GridCell.Tab.0.center/0.23.1280.722/-1920.23.1920.1057@0.23.1280.722" timestamp="1605071085171" />
     <state width="1878" height="338" key="GridCell.Tab.0.center/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1605499543336" />
@@ -172,12 +185,13 @@
     <state width="1878" height="224" key="GridCell.Tab.0.center/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611947733835" />
     <state width="1878" height="224" key="GridCell.Tab.0.center/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611952213595" />
     <state width="1878" height="141" key="GridCell.Tab.0.center/0.23.1280.730/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1607449108410" />
-    <state width="1878" height="224" key="GridCell.Tab.0.left" timestamp="1611952213595">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="992" height="297" key="GridCell.Tab.0.center/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1613030767894" />
+    <state width="887" height="297" key="GridCell.Tab.0.left" timestamp="1613062350865">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="887" height="297" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1613062350865" />
     <state width="1878" height="192" key="GridCell.Tab.0.left/0.23.1280.713/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604530443801" />
     <state width="1878" height="192" key="GridCell.Tab.0.left/0.23.1280.715/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604538473054" />
-    <state width="1878" height="175" key="GridCell.Tab.0.left/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604297142612" />
     <state width="1238" height="66" key="GridCell.Tab.0.left/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1605069080735" />
     <state width="1238" height="66" key="GridCell.Tab.0.left/0.23.1280.722/-1920.23.1920.1057@0.23.1280.722" timestamp="1605071085171" />
     <state width="1878" height="338" key="GridCell.Tab.0.left/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1605499543334" />
@@ -188,12 +202,13 @@
     <state width="1878" height="224" key="GridCell.Tab.0.left/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611947733835" />
     <state width="1878" height="224" key="GridCell.Tab.0.left/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611952213595" />
     <state width="1878" height="141" key="GridCell.Tab.0.left/0.23.1280.730/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1607449108409" />
-    <state width="1878" height="224" key="GridCell.Tab.0.right" timestamp="1611952213597">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="992" height="297" key="GridCell.Tab.0.left/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1613030767893" />
+    <state width="887" height="297" key="GridCell.Tab.0.right" timestamp="1613062350866">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
+    <state width="887" height="297" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1613062350866" />
     <state width="1878" height="192" key="GridCell.Tab.0.right/0.23.1280.713/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604530443802" />
     <state width="1878" height="192" key="GridCell.Tab.0.right/0.23.1280.715/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604538473056" />
-    <state width="1878" height="175" key="GridCell.Tab.0.right/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604297142613" />
     <state width="1238" height="66" key="GridCell.Tab.0.right/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1605069080737" />
     <state width="1238" height="66" key="GridCell.Tab.0.right/0.23.1280.722/-1920.23.1920.1057@0.23.1280.722" timestamp="1605071085172" />
     <state width="1878" height="338" key="GridCell.Tab.0.right/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1605499543336" />
@@ -204,6 +219,7 @@
     <state width="1878" height="224" key="GridCell.Tab.0.right/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611947733836" />
     <state width="1878" height="224" key="GridCell.Tab.0.right/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611952213597" />
     <state width="1878" height="141" key="GridCell.Tab.0.right/0.23.1280.730/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1607449108410" />
+    <state width="992" height="297" key="GridCell.Tab.0.right/0.23.1280.777/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1613030767895" />
     <state x="240" y="124" key="Vcs.Push.Dialog.v2" timestamp="1605071010721">
       <screen x="0" y="23" width="1280" height="722" />
     </state>
@@ -212,18 +228,19 @@
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-1295" y="226" width="670" height="676" key="search.everywhere.popup/0.23.1280.713/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604529938833" />
-    <state x="-1295" y="226" key="search.everywhere.popup/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604250894831" />
     <state x="-1295" y="226" width="670" height="676" key="search.everywhere.popup/0.23.1280.726/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1605633743385" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Competitive_Programming$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1604464121005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sandbox" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Race.coverage" NAME="Race Coverage Results" MODIFIED="1605634534776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sandbox" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$FireTrucksAreRed.coverage" NAME="SuperComputer Coverage Results" MODIFIED="1613059429129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/February 10, 2021" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Laptop_Stickers.coverage" NAME="Laptop_Stickers Coverage Results" MODIFIED="1605381688319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ACPC_2020" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$longest_subarray.coverage" NAME="valid_time Coverage Results" MODIFIED="1605137533221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sandbox" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$DeviceApplicationPairs.coverage" NAME="DeviceApplicationPairs Coverage Results" MODIFIED="1605069080714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sandbox" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1604530443786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sandbox" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$Stack.coverage" NAME="Stack_2 Coverage Results" MODIFIED="1604293959256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sandbox" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1605503367635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sandbox" />
+    <SUITE FILE_PATH="coverage/Competitive_Programming$KittenOnATree.coverage" NAME="SuperComputer Coverage Results" MODIFIED="1613014184604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/February 10, 2021" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$preference_calculator.coverage" NAME="preference_calculator Coverage Results" MODIFIED="1607449353975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sandbox" />
     <SUITE FILE_PATH="coverage/Competitive_Programming$BinarySearchTree.coverage" NAME="BinarySearchTree Coverage Results" MODIFIED="1611952104526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataStructures" />
   </component>
